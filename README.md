@@ -1,16 +1,15 @@
-## Hi there 👋
+# TITULO
+## SUBTÍLO 
+**NEGRITO**
+- item (item lista)
+[texto].(https://link.com). - link clicavel
+![descrição].(link-da-imagem). - imagem
 
-<!--
-**mariaeloisarib55-lgtm/mariaeloisarib55-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, eu sou Maria
+Estudante de desenvolvimento de sistemas - Senai
+Programação e desenvolvimento web
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+Linguagens: Python,javascript,c,c++,c#,.net...
+Banco de dados: mysql
+[Meu perfil](https://www.linkedin.com/in/maria-elo%C3%ADsa-ribeiro-6a8b5444a/)
